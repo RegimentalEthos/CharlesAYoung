@@ -6,7 +6,7 @@
 
 <!-- Début du header de la page -->
 <div>
-   <a href="https://github.com/RegimentalEthos"><img src="./images/RegimentalEthosBanner.png" /></a>
+   <a href="https://github.com/RegimentalEthos"><img src="https://github.com/RegimentalEthos/.github/blob/main/images/RegimentalEthos-Banner.png" /></a>
 </div>
 <b>** English text in bold characters.</b>
 
